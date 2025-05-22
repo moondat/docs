@@ -34,4 +34,3 @@
 ## 📚 Resources
 * [📔 Glossary](resources/glossary.md)
 * [❓ FAQs](resources/faqs.md)
-* [🛟 Support](resources/support.md)
